@@ -3,5 +3,23 @@
     "console.table": "^0.10.0",
     "inquirer": "^8.2.5",
     "mysql2": "^3.2.0"
-  }
+  },
+  "name": "employeeofthemonth",
+  "description": "creates tables for a manager to see every employee and departments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuaTuivai/EmployeeOfTheMonth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuaTuivai/EmployeeOfTheMonth/issues"
+  },
+  "homepage": "https://github.com/TuaTuivai/EmployeeOfTheMonth#readme"
 }
